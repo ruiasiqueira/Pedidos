@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JVRgtN1nu3OXiDta7li3UIbFBhwdHKoWaoIoDTfPjYc=",
+  "Source": "cp_csharp",
+  "BasePath": "_content/cp_csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
